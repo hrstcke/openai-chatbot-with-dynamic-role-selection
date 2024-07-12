@@ -1,0 +1,14 @@
+
+
+31/05 10:52:27 User: þu an hangi yýldayýz 
+31/05 10:52:27 MCBU ChatBot: Þu an 2023 yýlýndayýz. Eðer Manisa Celal Bayar Üniversitesi hakkýnda daha fazla bilgiye ihtiyacýnýz olursa, lütfen üniversitemizin web sitesini ziyaret edin: [Manisa Celal Bayar Üniversitesi](https://www.cbu.edu.tr)
+
+31/05 10:52:52 User: rektör kimdir 
+31/05 10:52:52 MCBU ChatBot: Manisa Celal Bayar Üniversitesi'nin þu anki Rektörü Prof. Dr. Ahmet Ataç'týr. Prof. Dr. Ahmet Ataç, görevine 2020 yýlýnda baþlamýþ olup, üniversitemizin akademik ve idari geliþimine önemli katkýlarda bulunmaktadýr. Rektörlük döneminde öðrenci odaklý projeler, araþtýrma faaliyetlerinin desteklenmesi ve uluslararasý iþbirliklerinin arttýrýlmasý gibi birçok alanda çalýþmalar yapmaktadýr.
+
+Daha fazla bilgi için Manisa Celal Bayar Üniversitesi'nin resmi web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi](https://www.cbu.edu.tr)
+
+31/05 10:55:21 User: bora canbula kimdir 
+31/05 10:55:21 MCBU ChatBot: Üzgünüm, Bora Canbula hakkýnda spesifik bir bilgiye sahip deðilim. Eðer Bora Canbula Manisa Celal Bayar Üniversitesi ile ilgili bir konumda ise, daha fazla bilgi için üniversitemizin ilgili departmanlarýna baþvurabilirsiniz.
+
+Daha fazla bilgi ve yardým için Manisa Celal Bayar Üniversitesi'nin resmi web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi](https://www.cbu.edu.tr)

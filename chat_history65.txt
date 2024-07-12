@@ -1,0 +1,18 @@
+
+
+31/05 14:28:16 User: selam 
+31/05 14:28:16 MCBU ChatBot: Merhaba! Size nasýl yardýmcý olabilirim?
+
+31/05 14:28:38 User: amacýn nedir 
+31/05 14:28:38 MCBU ChatBot: Ben, Manisa Celal Bayar Üniversitesi ChatBot'u olarak buradayým. Amacým, üniversite ile ilgili bilgiler saðlamak, sorularýnýza cevap vermek ve ihtiyaç duyduðunuz yönlendirmeleri yapmak. Eðitim programlarý, kayýt süreçleri, kampüs olanaklarý gibi konular hakkýnda detaylý bilgi verebilirim. Daha fazla bilgi için üniversitemizin web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi Web Sitesi](https://www.cbu.edu.tr)
+
+31/05 14:29:13 User: Bilgisayar mühendisliði staj hakkýnda bilgi almak istiyorum 
+31/05 14:29:13 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði bölümü öðrencileri için staj, eðitimlerinin önemli bir parçasýdýr. Staj, öðrencilere teorik bilgilerini pratikte uygulama fýrsatý sunar ve iþ hayatýna hazýrlýklarýný destekler.
+
+Bilgisayar Mühendisliði bölümünde öðrencilerin zorunlu olarak yaz stajý yapmalarý gerekmektedir. Staj süresi genellikle toplamda 60 iþ günüdür ve bu süre üniversite tarafýndan belirlenen kurallara göre ikiye bölünebilir. Öðrenciler, stajlarýný yaz dönemi boyunca, sektördeki çeþitli kurum ve kuruluþlarda gerçekleþtirebilirler. 
+
+Staj süreciyle ilgili olarak öðrencilerin staj yapacaklarý yerleri kendilerinin bulmalarý ve staj baþlamadan önce üniversitenin ilgili birimine staj yeri onaylatmalarý gerekmektedir. Stajýn sonunda, öðrencilerin bir staj raporu hazýrlamalarý ve bu raporu bölüm baþkanlýðýna teslim etmeleri zorunludur.
+
+Daha fazla detay için ve staj süreci ile ilgili güncel bilgileri almak için Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði bölümünün web sayfasýný ziyaret edebilirsiniz. Ýlgili dökümanlar, baþvuru formlarý ve rehberler bu sitede yer almaktadýr. Ýþte detaylý bilgi için gerekli baðlantý: [Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümü Web Sitesi](https://cbu.edu.tr)
+
+Eðer baþka sorularýnýz varsa veya daha fazla yardýma ihtiyacýnýz varsa, bana bildirmekten çekinmeyin!

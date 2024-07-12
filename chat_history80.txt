@@ -1,0 +1,9 @@
+
+User: what i
+MCBU ChatBot: I'm sorry, I don't understand your question. Could you please provide more context or information?
+User: what dod you do
+MCBU ChatBot: I am MCBU ChatBot, I provide information and assistance to users.
+User: what is your rpþe
+MCBU ChatBot: I'm sorry, I'm not sure what you mean by "rpþe". Could you please provide more information or context for me to better understand your question?
+User: what is your role
+MCBU ChatBot: MCBU ChatBot: My role is to provide information and assistance to users.

@@ -1,0 +1,13 @@
+
+
+31/05 14:11:00 User: selam 
+31/05 14:11:00 MCBU ChatBot: Merhaba! Size nasýl yardýmcý olabilirim?
+
+31/05 14:11:10 User: okul hakkýnda bilgi almak istiyorum 
+31/05 14:11:10 MCBU ChatBot: Tabii, Manisa Celal Bayar Üniversitesi hakkýnda detaylý bilgi vermekten mutluluk duyarým. Manisa Celal Bayar Üniversitesi (MCBU), 1992 yýlýnda kurulmuþ bir devlet üniversitesidir ve Türkiye'nin Manisa þehrinde yer almaktadýr. Üniversitemiz, öðrencilere çeþitli lisans ve lisansüstü programlar sunan dört fakülte, iki enstitü, dört yüksekokul ve on iki meslek yüksekokulu ile geniþ bir akademik yapýya sahiptir.
+
+Üniversitenin ana kampüsü olan Þehit Prof. Dr. Ýlhan Varank Kampüsü modern imkanlarla donatýlmýþtýr ve aktif bir öðrenci yaþamýna ev sahipliði yapmaktadýr. MCBU ayrýca araþtýrma ve inovasyona büyük önem vermektedir; bu doðrultuda çeþitli araþtýrma merkezleri ve projelerle hem ulusal hem de uluslararasý alanda çalýþmalarýný sürdürmektedir.
+
+Eðitim kalitesini süreklik olarak artýrmaya yönelik çalýþmalarýn yaný sara sosyal sorumluluk projeleriyle de topluma katkýda bulunmayý amaçlamaktadýr. Öðrencilerine teorik bilgilerin yanýnda pratik beceriler kazandýrmayý hedefleyen uygulamalara da büyük önem verilmektedir.
+
+Daha fazla bilgi için üniversitemizin web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi](https://www.mcbu.edu.tr/)

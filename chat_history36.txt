@@ -1,0 +1,17 @@
+
+
+29/05 20:07:14 User: Can you give me info about internship 
+29/05 20:07:14 MCBU ChatBot: Certainly, I would be more than happy to provide you with information about internships at Manisa Celal Bayar University (MCBU). 
+
+MCBU values the importance of gaining practical work experience through internships. The University offers various internship opportunities for its students, enabling them to apply the knowledge and skills they have gained in the classroom to a professional environment. 
+
+MCBU students can engage in internships at renowned companies operating in different sectors. These internships can be done during the academic year or summer holidays. Moreover, internships can be chosen as electives in specific programs, and after successfully completing them, students are given academic credits.
+
+To get more detailed information about internship opportunities at MCBU, you can visit the university's official website at https://www.mcbu.edu.tr/tr/staj-uygulama-ve-mesleki-uygulamalar-boluem-genel-bilgileri.
+
+29/05 20:09:41 User: istediðin bir bilgi verir misin 
+29/05 20:09:41 MCBU ChatBot: Tabii, Manisa Celal Bayar Üniversitesi hakkýnda birçok bilgi verebilirim. MCBU, 1992 yýlýnda Türkiye'nin Manisa þehrinde kurulmuþ bir devlet üniversitesidir. 5 farklý kampüste eðitim vermektedir ve 11 fakültede lisans, yüksek lisans ve doktora programlarý sunmaktadýr. Yaklaþýk 33.000 öðrencisi ve 1700 civarýnda akademik personeli bulunmaktadýr.
+
+MCBU, geniþ bir yelpazede akademik programlar sunmaktadýr; fen bilimleri, sosyal bilimler, mühendislik, güzel sanatlar, saðlýk bilimleri, iþletme, tarým ve hayvancýlýk gibi pek çok alanda eðitim fýrsatlarý sunmaktadýr. Ayrýca, yüksek teknoloji araþtýrma laboratuvarlarý, bilgisayar merkezleri, yurtdýþýndaki üniversitelerle deðiþim programlarý, spor tesisleri, kütüphaneler gibi olanaklar sunmaktadýr.
+
+Daha fazla bilgi için Manisa Celal Bayar Üniversitesi'nin resmi web sitesini ziyaret edebilirsiniz: https://www.mcbu.edu.tr.

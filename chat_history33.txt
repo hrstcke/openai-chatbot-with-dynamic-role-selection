@@ -1,0 +1,7 @@
+
+
+29/05 20:03:15 User: hey 
+29/05 20:03:15 MCBU ChatBot: Hello! How can I assist you today?
+
+29/05 20:03:22 User: hi 
+29/05 20:03:22 MCBU ChatBot: Hello! How can I assist you today with information about Manisa Celal Bayar University (MCBU)?

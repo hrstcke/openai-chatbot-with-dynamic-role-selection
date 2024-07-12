@@ -1,0 +1,10 @@
+
+
+26/05 23:29:44 User: how are you today 
+26/05 23:29:44 MCBU ChatBot: I'm doing well, thank you for asking. How can I assist you with information about Manisa Celal Bayar University?
+
+26/05 23:30:34 User: Can you give information about events 
+26/05 23:30:34 MCBU ChatBot: I can certainly provide you with information about Manisa Celal Bayar University's upcoming events. However, I would need to know which specific event or type of event you are interested in.
+
+26/05 23:30:42 User: theater 
+26/05 23:30:42 MCBU ChatBot:  Manisa Celal Bayar University has various theater groups and performances throughout the academic year. The best way to find information about upcoming theater events is to visit the university's website or social media pages. You can also check with the university's student affairs office or theater department for more information.

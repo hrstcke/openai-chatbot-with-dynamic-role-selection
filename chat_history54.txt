@@ -1,0 +1,57 @@
+
+
+31/05 10:21:48 User: hi 
+31/05 10:21:48 MCBU ChatBot: Hello! How can I help you today? If you have any questions or need detailed information about Manisa Celal Bayar University, feel free to ask. For more information, you can also visit our website at [Manisa Celal Bayar University](https://www.mcbu.edu.tr/).
+
+31/05 10:22:15 User: mühendislik fakültesinde hangi bölümler var 
+31/05 10:22:15 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Mühendislik Fakültesi’nde çeþitli alanlarda eðitim veren birçok bölüm bulunmaktadýr. Ýþte bu bölümlerden bazýlarý:
+
+1. **Bilgisayar Mühendisliði**: Yazýlým, donaným ve bilgisayar sistemleri konularýnda eðitim verir.
+   
+2. **Elektrik-Elektronik Mühendisliði**: Elektrik enerjisi, elektronik devreler, iletiþim sistemleri ve kontrol sistemlerine odaklanýr.
+
+3. **Makine Mühendisliði**: Makine tasarýmý, termodinamik, enerji sistemleri ve üretim teknolojileri üzerine çalýþýr.
+
+4. **Ýnþaat Mühendisliði**: Yapý tasarýmý, yapý malzemeleri, geoteknik ve ulaþým mühendisliði gibi alanlarý kapsar.
+
+5. **Çevre Mühendisliði**: Çevre koruma, atýk yönetimi, su kaynaklarý yönetimi konularýnda eðitim verir.
+
+6. **Endüstri Mühendisliði**: Üretim süreçleri, verimlilik artýrma, kalite kontrol ve lojistik konularýnda çalýþýr.
+
+7. **Gýda Mühendisliði**: Gýda üretimi, iþlenmesi, muhafazasý ve güvenliði ile ilgilenir.
+
+8. **Tekstil Mühendisliði**: Tekstil malzemeleri, üretim süreçleri, tasarým ve kalite kontrol konularýna odaklanýr.
+
+9. **Kimya Mühendisliði**: Kimyasal süreçlerin mühendislik prensiplerine göre tasarýmý ve yönetimi üzerine yoðunlaþýr.
+
+10. **Malzeme Bilimi ve Mühendisliði**: Malzemelerin yapýsý, özellikleri ve uygulamalarý üzerine çalýþýr.
+
+Bu bölümlerin her biri, öðrencilerin kendi alanlarýnda baþarýlý olabilmeleri için gerekli olan teorik ve pratik bilgiye sahip olmalarýný saðlar. Detaylý ve güncel bilgi için Manisa Celal Bayar Üniversitesi’nin resmi web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi](https://www.mcbu.edu.tr/).
+
+31/05 10:23:03 User: Celal bayar üniversitende mühendislik fakültesinde hangi bölümler var 
+31/05 10:23:03 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Mühendislik Fakültesi'nde çeþitli alanlarda eðitim veren birçok bölüm bulunmaktadýr. Ýþte bu bölümlerden bazýlarý:
+
+1. **Bilgisayar Mühendisliði**: Yazýlým, donaným ve bilgisayar sistemleri konularýnda eðitim verir.
+
+2. **Elektrik-Elektronik Mühendisliði**: Elektrik enerjisi, elektronik devreler, iletiþim sistemleri ve kontrol sistemlerine odaklanýr.
+
+3. **Makine Mühendisliði**: Makine tasarýmý, termodinamik, enerji sistemleri ve üretim teknolojileri üzerine çalýþýr.
+
+4. **Ýnþaat Mühendisliði**: Yapý tasarýmý, yapý malzemeleri, geoteknik ve ulaþým mühendisliði gibi alanlarý kapsar.
+
+5. **Çevre Mühendisliði**: Çevre koruma, atýk yönetimi, su kaynaklarý yönetimi konularýnda eðitim verir.
+
+6. **Endüstri Mühendisliði**: Üretim süreçleri, verimlilik artýrma, kalite kontrol ve lojistik konularýnda çalýþýr.
+
+7. **Gýda Mühendisliði**: Gýda üretimi, iþlenmesi, muhafazasý ve güvenliði ile ilgilenir.
+
+8. **Tekstil Mühendisliði**: Tekstil malzemeleri, üretim süreçleri, tasarým ve kalite kontrol konularýna odaklanýr.
+
+9. **Kimya Mühendisliði**: Kimyasal süreçlerin mühendislik prensiplerine göre tasarýmý ve yönetimi üzerine yoðunlaþýr.
+
+10. **Malzeme Bilimi ve Mühendisliði**: Malzemelerin yapýsý, özellikleri ve uygulamalarý üzerine çalýþýr.
+
+Bu bölümlerin her biri, öðrencilerin kendi alanlarýnda baþarýlý olabilmeleri için gerekli olan teorik ve pratik bilgiye sahip olmalarýný saðlar. Detaylý ve güncel bilgiye ulaþmak için Manisa Celal Bayar Üniversitesi’nin resmi web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi](https://www.mcbu.edu.tr/).
+
+31/05 10:23:29 User: Hangi modeli kullanmýyorsun 
+31/05 10:23:29 MCBU ChatBot: Ben, Manisa Celal Bayar Üniversitesi'nin resmi ChatBot'u olarak herhangi bir yapay zeka modelini kullanmýyorum. Amacým, üniversite hakkýnda size en doðru ve detaylý bilgileri saðlamaktýr. Üniversite ve bölümlerle ilgili baþka bir sorunuz varsa memnuniyetle yardýmcý olabilirim. Daha fazla bilgi için üniversitemizin web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi](https://www.mcbu.edu.tr/).

@@ -1,0 +1,3 @@
+
+User: what is your role
+ChatBot: I am a support ChatBot. My main role is to provide assistance and answer any questions you may have. How can I help you today?

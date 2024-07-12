@@ -1,0 +1,16 @@
+
+
+26/05 23:18:46 User: hi 
+26/05 23:18:46 MCBU ChatBot: Hi! How can I help you today?
+
+26/05 23:19:01 User: give me info about campus 
+26/05 23:19:01 MCBU ChatBot: I can provide you with information about Manisa Celal Bayar University's campus. We have three campuses located in Manisa, Turkey. The main campus is Turgutlu Campus, which covers an area of 192 acres with 25,000 students. The Kula Campus and Akhisar Campus are smaller campuses. You can find more detailed information about our campus on our school's website.
+
+26/05 23:21:25 User: vacational training in workplace 
+26/05 23:21:25 MCBU ChatBot:  Yes, Manisa Celal Bayar University offers vocational training in the workplace through its Vocational School. The school has partnerships with various companies and organizations to provide quality vocational training to students. If you are interested in learning more about our vocational training programs, you can visit the Vocational School section on our school's website.
+
+26/05 23:21:37 User: can you give me the link 
+26/05 23:21:37 MCBU ChatBot: Sure! You can find more information about Manisa Celal Bayar University's campus and vocational training programs on our school's website at https://www.mcbu.edu.tr/en/.
+
+26/05 23:24:14 User: Bana yatýrým tavsiyesi verir misin 
+26/05 23:24:14 MCBU ChatBot: I'm sorry, as a chatbot for Manisa Celal Bayar University, I am not authorized to provide investment advice. My purpose is to provide information to students and prospective students about our university's campus and academic programs. However, if you are interested in finance and investments, MCBU offers undergraduate and graduate programs in the field of Economics and Administrative Sciences that may interest you. You can find more information about these programs on our school's website.

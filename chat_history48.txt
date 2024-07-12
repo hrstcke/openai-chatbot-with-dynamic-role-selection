@@ -1,0 +1,25 @@
+
+
+31/05 09:53:28 User: hi 
+31/05 09:53:28 MCBU ChatBot: Hello! How can I assist you with information about Manisa Celal Bayar University?
+
+31/05 09:53:42 User: merhaba 
+31/05 09:53:42 MCBU ChatBot: Merhaba! Manisa Celal Bayar Üniversitesi hakkýnda bilgi almak için nasýl yardýmcý olabilirim?
+
+31/05 09:54:01 User: iþletmede mesleði eðitim hakkýnda bilgi verebilir misin 
+31/05 09:54:01 MCBU ChatBot: Tabii, Ýþletmede Mesleki Eðitim programý MCBÜ Ýþletme Fakültesi tarafýndan sunulan bir programdýr. Bu program öðrencilere teorik iþletme bilgileri yanýnda pratik iþletme deneyimleri kazandýrmayý amaçlar. Ýþletme Endüstri Ýliþkileri (Endüstriyel Ýliþkiler) alanlarýnda lisans düzeyinde mesleki beceriler, bilgi ve becerilerin kazanýlmasýna, süreçleri yönetmeye yönelik pratik becerilerin edinilmesine odaklanmaktadýr. Program mezunlarý, iþletme ve yönetim konularýnda öncü profesyoneller olarak kariyerlerine devam edebilirler. Daha fazla bilgi için, lütfen MCBÜ Ýþletme Fakültesi web sitesini ziyaret ediniz. (https://isletme.mcbu.edu.tr/)
+
+31/05 09:54:53 User: bilgisayar mühendisliði bölümünde iþletmede mesleki eðitim hakkýnda bilgi verir misib 
+31/05 09:54:53 MCBU ChatBot: Maalesef, bilgisayar mühendisliði bölümünde Ýþletmede Mesleki Eðitim programý mevcut deðildir. Ancak MCBÜ Bilgisayar Mühendisliði Bölümü, öðrencilerine teorik bilgisayar mühendisliði bilgileri ile pratik bilgisayar mühendisliði deneyimleri kazandýrmaya çalýþarak öncü bir bölüm olarak öne çýkýyor. Bilgisayar Mühendisliði programlarý, kuram, tasarým, geliþtirme, test etme, sýnama ve kalite kontrol gibi konularý kapsamaktadýr. Program mezunlarý, yazýlým mühendisleri, að mühendisleri, bilgisayar sistemleri yöneticileri ve benzeri alanlarda çalýþabilmektedirler. Daha fazla bilgi için, lütfen MCBÜ Bilgisayar Mühendisliði Bölümü web sitesini ziyaret ediniz. (https://bm.mcbu.edu.tr/)
+
+31/05 09:56:11 User: yanlýþ cevap verdin 
+31/05 09:56:11 MCBU ChatBot: Özür dilerim. Yanlýþ bir bilgi verdiysem, lütfen sormak istediðin konuyu tekrar belirtir misin? Yardýmcý olmaktan mutluluk duyarým.
+
+31/05 09:56:40 User: Mühendislik fakültesinde hangi bölümler var 
+31/05 09:56:40 MCBU ChatBot: MCBÜ Mühendislik Fakültesi, Elektrik-Elektronik Mühendisliði, Makine Mühendisliði, Endüstri Mühendisliði, Bilgisayar Mühendisliði ve Jeoloji Mühendisliði olmak üzere 5 bölümü içermektedir. Bu bölümler, öðrencilerin teorik bilgiye sahip olmalarýný ve ayný zamanda pratik deneyimler kazanmalarýný saðlamak için çeþitli araþtýrmalar, deneyler ve proje çalýþmalarýný içerir. Bu bölümlerin tamamý, mezunlarýn sektörün ihtiyaçlarýný karþýlayacak þekilde donanýmlý bir þekilde mezun olmalarýný saðlar. Daha fazla bilgi için, lütfen MCBÜ Mühendislik Fakültesi web sitesini ziyaret ediniz. (https://mf.mcbu.edu.tr/)
+
+31/05 09:58:10 User: Mühendislik fakültesinin adresini verebilir misin 
+31/05 09:58:10 MCBU ChatBot: Tabii, MCBÜ Mühendislik Fakültesi adresi "Manisa Celal Bayar Üniversitesi Mühendislik Fakültesi, Þehit Prof. Dr. Ýlhan Varank Kampüsü, Yunusemre, Manisa" þeklindedir. MCBÜ Mühendislik Fakültesine ulaþmak için, güncel yol tarifi için haritadan ya da yol tarifi uygulamalarýndan yararlanabilirsiniz. Daha fazla bilgi için, lütfen MCBÜ Mühendislik Fakültesi web sitesini ziyaret ediniz. (https://mf.mcbu.edu.tr/)
+
+31/05 09:58:31 User: Okul hakkýnda bilgi verir misin 
+31/05 09:58:31 MCBU ChatBot: Tabii, Manisa Celal Bayar Üniversitesi (MCBÜ), Türkiye'nin batýsýndaki Manisa þehrinde yer alan devlet üniversitesidir. Üniversite, 1992 yýlýnda kurulmuþtur ve 7 fakülte, 3 enstitü, 10 meslek yüksekokulu ve 16 araþtýrma merkezine sahiptir. MCBÜ, toplam 50.000'den fazla öðrenciye eðitim vermektedir ve özellikle mühendislik, iþletme, tarým ve saðlýk bilimleri konularýnda öne çýkmaktadýr. Ayrýca, tarihi þehir Manisa'nýn kültürel zenginliði ve doðal güzellikleri ile çevrili bir kampüse sahiptir. MCBÜ, öðrencilerine teorik bilgi ve pratik becerileri birleþtirerek baþarýlý bir kariyer için gerekli araçlarý sunar. Daha fazla bilgi için, lütfen MCBÜ web sitesini ziyaret ediniz. (https://www.mcbu.edu.tr/)

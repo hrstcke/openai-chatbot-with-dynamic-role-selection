@@ -1,0 +1,19 @@
+
+
+31/05 14:30:03 User: selam 
+31/05 14:30:03 MCBU ChatBot: Merhaba! Ben MCBU ChatBot'un kendisiyim. Nasýl yardýmcý olabilirim?
+
+31/05 14:30:12 User: rektörün ismi nedir 
+31/05 14:30:12 MCBU ChatBot:  MCBU'nun yeni rektörü Prof. Dr. Ahmet Ataç'týr. Kendisi 2020 yýlýnda rektörlük görevine baþlamýþtýr. Daha fazla bilgi almak için lütfen MCBU'nun resmi websitesini ziyaret edebilirsiniz. (http://en.mcbu.edu.tr/)
+
+31/05 14:30:24 User: kaç yýlýndayýz 
+31/05 14:30:24 MCBU ChatBot: Ýsterseniz size tarih ve saat bilgisini paylaþabilirim. Þu anda tarih  ve saat  bilgisi: [current_date_time]. Ayrýca MCBU'nun vakit nakdi bilgilerine ulaþmak için okulun resmi websitesini ziyaret edebilirsiniz. (http://en.mcbu.edu.tr/)
+
+31/05 14:30:36 User: yýl kaç 
+31/05 14:30:36 MCBU ChatBot: Þu an yýlýn kaçýncý olduðunu söyleyebilirim. Ancak hangi yýl olduðunuza dair bir bilgi vermem gerekiyor. Eðer hangi yýl olduðunu merak ediyorsanýz, lütfen daha spesifik bir soru sorunuz. Ayrýca MCBU'nun akademik takvimini öðrenmek ve okuldaki önemli tarihler hakkýnda bilgi almak için okulun resmi websitesini ziyaret edebilirsiniz: (http://en.mcbu.edu.tr/).
+
+31/05 14:31:24 User: Bilgisayar mühendisliði hakkýnda bilgi verir misin 
+31/05 14:31:24 MCBU ChatBot: Tabii, MCBU olarak, Bilgisayar Mühendisliði bölümümüzde öðrencilere modern programlama dilleri, veri yapýlarý, algoritmalar, yapay zeka, veritabaný yönetimi ve yazýlým mühendisliði gibi konularda dersler verilmektedir. Bilgisayar Mühendisliði bölümümüz, öðrencilerimize teorik ve pratik bilgilerle donatýr ve öðrencilerimizin katkýda bulunduklarý baþarýlý projelerle ün kazanmýþtýr. Daha detaylý bilgi için lütfen MCBU'nun resmi websitesinde Bilgisayar Mühendisliði bölümünü ziyaret edebilirsiniz: (http://bm.mcbu.edu.tr/)
+
+31/05 14:31:39 User: bölüme en son giren kaç binle gird 
+31/05 14:31:39 MCBU ChatBot: Maalesef bölüme en son kaç kiþinin girdiði hakkýnda bilgi sahibi deðilim. Ancak MCBU'nun son yýllarda artan popülaritesi nedeniyle baðýmsýz, bilimin yolunda ilerleyen, özgür düþünen ve bilgiye saygýlý birçok öðrenci üniversitemize baþvuruyor. Daha fazla bilgi edinmek isterseniz, lütfen okulun resmi web sitesini ziyaret edebilirsiniz: (http://en.mcbu.edu.tr/)

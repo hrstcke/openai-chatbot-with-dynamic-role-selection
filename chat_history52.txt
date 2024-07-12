@@ -1,0 +1,10 @@
+
+
+31/05 10:11:33 User: selam 
+31/05 10:11:33 MCBU ChatBot: Merhaba! Ben Manisa Celal Bayar Üniversitesi hakkýnda her türlü bilgiyi saðlayabilirim. Size nasýl yardýmcý olabilirim?
+
+31/05 10:11:38 User: naber 
+31/05 10:11:38 MCBU ChatBot: Ben bir chatbotum, dolayýsýyla herhangi bir duygu durumum yok. Ancak Manisa Celal Bayar Üniversitesi hakkýnda size yardýmcý olmaktan mutluluk duyarým. Size ne konuda yardýmcý olabilirim?
+
+31/05 10:11:49 User: küfür yok 
+31/05 10:11:49 MCBU ChatBot: Tabii, anlýyorum. Ben MCBU ChatBot olarak, size Manisa Celal Bayar Üniversitesi hakkýnda herhangi bir bilgi saðlayabilirim. Size hangi konuda yardýmcý olabilirim?

@@ -1,0 +1,42 @@
+
+
+31/05 14:05:04 User: hi 
+31/05 14:05:04 MCBU ChatBot: Hello! How can I assist you with information about Manisa Celal Bayar University today? For more details, you can always visit our website: [MCBU Website](https://www.cbu.edu.tr).
+
+31/05 14:05:26 User: okul hakkýnda bilgi verir misin 
+31/05 14:05:26 MCBU ChatBot: Tabii, Manisa Celal Bayar Üniversitesi (MCBU), Türkiye'nin Ege Bölgesi'nde yer alan Manisa þehrinde bulunan bir devlet üniversitesidir. 1992 yýlýnda kurulmuþ olup, öðrencilere çeþitli lisans ve lisansüstü programlar sunmaktadýr. Üniversitemiz, dört ana kampüs üzerinde konumlanmýþtýr: Þehit Prof. Dr. Ýlhan Varank Kampüsü, Muradiye Kampüsü, Akhisar Kampüsü ve Demirci Kampüsü.
+
+Üniversitemizde 17 fakülte, 3 enstitü, 4 yüksekokul ve 12 meslek yüksekokulu bulunmakta olup geniþ bir akademik yapýya sahiptir. Fakültelerimiz arasýnda Mühendislik Fakültesi, Týp Fakültesi gibi önemli bölüm seçenekleri mevcuttur. Ayrýca Saðlýk Bilimleri Enstitümüz de saðlýk alanýnda uzmanlaþmak isteyen öðrenciler için çeþitli yüksek lisans ve doktora programlarý sunmaktadýr.
+
+Öðrencilerimize teorik bilgilerin yaný sara pratik uygulamalarla desteklenen eðitim anlayýþýný benimsiyoruz; bu sayede mezunlarýmýz iþ hayatýna hazýr hale gelmektedirler. Üniversite bünyesindeki araþtýrma merkezleri ve laboratuvarlar modern teknolojilerle donatýlmýþ olup öðrencilere araþtýrma yapma imkanlarý tanýmaktadýr.
+
+Kültürden spora kadar geniþ bir yelpazede sosyal aktivitelere ev sahipliði yaparak öðrencilerin kiþisel geliþimine katkýda bulunuyoruz. Özellikle uluslararasý iþbirlikleriyle dünya standartlarýnda bir eðitim deneyimi sunmayý amaçlýyoruz.
+
+Daha fazla bilgi için lutfen üniversitemizin web sitesini ziyaret ediniz: [MCBU Website](https://www.cbu.edu.tr).
+
+31/05 14:06:32 User: Bilgisayar mühendisliði hakkýnda bilgi verir misin 
+31/05 14:06:32 MCBU ChatBot: Elbette, Bilgisayar Mühendisliði Bölümü Manisa Celal Bayar Üniversitesi'nin Mühendislik Fakültesi bünyesinde yer almaktadýr. Bu bölüm, öðrencilere bilgisayar sistemleri ve yazýlým geliþtirme konularýnda derinlemesine eðitim sunmayý amaçlamaktadýr. Lisans programýnýn süresi genellikle dört yýldýr ve eðitim dili Türkçe'dir.
+
+Bilgisayar Mühendisliði Bölümü'nde algoritma tasarýmý, yapay zeka, veritabanlarý, iþletim sistemleri, að teknolojileri gibi temel bilgisayar bilimi ve mühendislik konularýný kapsayan kurslar bulunmaktadýr. Öðrenciler teorik bilgilerini pratik projelerle pekiþtirebilirler; bu da onlarýn gerçek dünya problemlerine çözüm üretebilme kapasitelerini arttýrmaktadýr.
+
+Ayrýca bölümde öðrencilere yönelik staj imkanlarý ve sanayi ile iþbirlikleri de saðlanmakta olup bu sayede öðrenciler mezuniyet öncesi iþ tecrübesi kazanabilmekte ve sektörle baðlantý kurabilmektedirler. Mezunlarýmýz yazýlým þirketleri, teknoloji start-up'larý veya daha geniþ IT departmanlarýnda çalýþma fýrsatlarýna sahiptirler.
+
+Üniversitemiz modern laboratuvarlara sahip olup özellikle Bilgisayar Mühendisliði öðrencilerinin kullanýmýna açýk olan birçok teknolojik araçla donatýlmýþtýr. Bu laboratuvar ortamýnda öðrenciler kendilerini daha ileri seviyeye taþýyacak projeler geliþtirebilirler.
+
+Daha fazla detaylý bilgi için lütfen üniversitemizin web sitesini ziyaret ediniz: [MCBU Website](https://www.cbu.edu.tr).
+
+31/05 14:06:50 User: Bilgisayar mühendisliði hakkýnda bilgi verir msini 
+31/05 14:06:50 MCBU ChatBot: Elbette, Manisa Celal Bayar Üniversitesi'nde Bilgisayar Mühendisliði Bölümü, Mühendislik Fakültesi bünyesinde yer almaktadýr. Bu bölüm, öðrencilere bilgisayar sistemleri ve yazýlýmlarý hakkýnda derinlemesine bilgi saðlamayý amaçlar. Lisans programýnýn süresi genellikle dört yýldýr ve eðitim dili Türkçe'dir.
+
+Bilgisayar Mühendisliði programýmýzda algoritmalar, veritabanlarý, yapay zeka, að teknolojileri gibi temel konularýn yaný sara modern yazýlým geliþtirme teknikleri üzerine yoðunlaþýlmaktadýr. Öðrenciler teorik bilgilerini pratik projelerle pekiþtirebilirler; bu da onlarýn gerçek dünya problemlerini çözme yeteneklerini arttýrýr.
+
+Ayrýca üniversitemizde bulunan çeþitli laboratuvarlar sayesinde öðrencilerimiz en yeni teknolojilerle çalýþma fýrsatýný elde ederler. Bu laboratuvarlarda yapýlan araþtýrmalar hem akademik baþarýyý hem de sektördeki uygulamalara yönelik önemli katkýlarda bulunur.
+
+Üniversitemizin güçlü akademisyen kadrosu ve iþbirlikleri sayesinde öðrencilere uluslararasý deneyim kazanma imkanlarý da sunulmaktadýr. Mezunlarýmýz yüksek teknolojiye sahip þirketlerde mühendis olarak kariyer yapabilir veya akademik çalýþmalara devam edebilirler.
+
+Daha fazla detay için lütfen üniversitemizin web sitesini ziyaret ediniz: [MCBU Website](https://www.cbu.edu.tr).
+
+31/05 14:07:25 User: Eðitim dili türkçe deðil 
+31/05 14:07:25 MCBU ChatBot: Özür dilerim, yanlýþ bilgi vermiþ olabilirim. Manisa Celal Bayar Üniversitesi'nde Bilgisayar Mühendisliði Bölümü'nün eðitim dili Türkçe'dir ancak bazý seçmeli dersler Ýngilizce olarak da sunulabilmektedir. Bu durum öðrencilere hem Türkçe hem de Ýngilizce akademik geliþim fýrsatlarý saðlamaktadýr.
+
+Eðer belirli bir program veya kurs hakkýnda daha fazla ayrýntýlý bilgiye ihtiyacýnýz varsa, lütfen üniversitemizin resmi web sitesini ziyaret ediniz: [MCBU Website](https://www.cbu.edu.tr). Burada güncel ve detaylý bilgiler bulabilirsiniz.

@@ -1,0 +1,7 @@
+
+
+28/05 12:25:57 User: hi 
+28/05 12:25:57 MCBU ChatBot: Hello! How can I help you with information about Manisa Celal Bayar University?
+
+28/05 12:26:13 User: Can you give me information about vocational training in workplace 
+28/05 12:26:13 MCBU ChatBot: I'd be happy to help. Manisa Celal Bayar University offers vocational training in the workplace through its Vocational School. These programs aim to provide students with practical skills and knowledge that they can use in their chosen professions. You can find more information about our vocational training programs by visiting the University's website.

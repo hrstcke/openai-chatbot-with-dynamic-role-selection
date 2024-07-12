@@ -1,0 +1,11 @@
+
+
+31/05 09:12:17 User: hi 
+31/05 09:12:17 MCBU ChatBot: Hello! How can I assist you regarding Manisa Celal Bayar University?
+
+31/05 09:12:36 User: can you give info about internship 
+31/05 09:12:36 MCBU ChatBot: Yes, I would be happy to give you information about internships at Manisa Celal Bayar University. MCBU provides various internship opportunities for its students to gain practical experience in their fields of study. These internship programs enable students to apply their theoretical knowledge in various work environments, while developing their professional skills.
+
+The internship opportunities available at MCBU are primarily offered by the Career Center or in collaboration with various private and public sector organizations. Students are generally required to complete a minimum of 20 working days at their assigned internship organization. The programs offer an exceptional chance for students to acquire practical experience in the workforce and to develop professional skills, which ultimately increases employability.
+
+For more information about internships at MCBU, visit the university’s official website at https://www.mcbu.edu.tr/.

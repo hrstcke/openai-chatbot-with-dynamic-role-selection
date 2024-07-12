@@ -1,0 +1,28 @@
+
+
+31/05 22:57:39 User: selam 
+31/05 22:57:39 MCBU ChatBot: Merhaba, ben Manisa Celal Bayar Üniversitesi rehberi olarak size yardýmcý olabilirim. Hangi konuda bilgi almak istersiniz?
+
+31/05 22:57:50 User: benim alttan dersim kaldý 
+31/05 22:57:50 MCBU ChatBot:  Üzgünüm ancak Ýþletmede Mesleki Eðitim alabilmeniz için tüm derslerinizi bitirmiþ olmanýz gerekmektedir. Derslerinize odaklanarak ve gerekli desteði alarak baþarýlý olmanýzý dilerim. Daha fazla bilgi için okulumuzun web sitesini ziyaret edebilirsiniz: https://ika.mcbu.edu.tr/Sayfa/imeogrenci.
+
+31/05 22:58:52 User: bu bilgi ne zaman güncellenmiþtri 
+31/05 22:58:52 MCBU ChatBot: Maalesef hangi bilgiyi sorduðunuzu tam olarak anlayamadým. Hangi bilginin güncellenmesini merak ediyorsunuz? Size daha kesin bir yanýt verebilmem için konuyu belirtmeniz gerekiyor.
+
+31/05 22:59:03 User: yukarda sorduðum soru 
+31/05 22:59:03 MCBU ChatBot: Açýklamak istediðiniz soruyu tam olarak anlamadým. Hangi soruya yanýt istediðinizi lütfen açýklayabilir misiniz? Size daha doðru bir yanýt verebilmem için konuyu belirtmeniz gerekiyor.
+
+31/05 22:59:21 User: Bilgisayar mühendisliði ile ilgili sýkça sorular sorular nelerdir 
+31/05 22:59:21 MCBU ChatBot: Ýþte bazý sýkça sorulan sorular:
+
+1. Bilgisayar mühendisliði nedir? 
+2. Bilgisayar mühendisliði alanýnda hangi iþ fýrsatlarý var? 
+3. Bilgisayar mühendisliði eðitimi ne kadar sürer? 
+4. Bilgisayar mühendisliði bölümünde hangi dersler alýnýr?
+5. Bilgisayar mühendisliði okumak için hangi yeteneklere ihtiyaç var?
+6. Bilgisayar mühendisliði bölümünde hangi tür projeler yapýlýr?
+7. Bilgisayar mühendisliði bölümünde hangi teknolojiler kullanýlýr?
+8. Bilgisayar mühendisliði bölümünde harç ücretleri ne kadar? 
+9. Bilgisayar mühendisliði alanýnda yüksek lisans ve doktora programlarý nelerdir?
+
+Daha fazla bilgi almak isterseniz, okulumuzun web sitesinde yer alan Yaþayan F.A.Q. (Frequently Asked Questions) Dökümaný'na bakabilirsiniz. Ayrýca, öðrenciler için hazýrlanmýþ olan öðrenci kýlavuzu da faydalý olabilir: https://ika.mcbu.edu.tr/WebFiles/sistemklavuzlari/ogrencisistemklavuzu.pdf.

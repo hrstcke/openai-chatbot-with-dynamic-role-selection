@@ -1,0 +1,30 @@
+
+
+31/05 10:13:30 User: selam 
+31/05 10:13:30 MCBU ChatBot: Merhaba, nasýl yardýmcý olabilirim? Manisa Celal Bayar Üniversitesi hakkýnda merak ettiklerinizi öðrenebilirsiniz.
+
+31/05 10:13:43 User: mühenslik fakültesinde hangi bölümler var 
+31/05 10:13:43 MCBU ChatBot: Mühendislik Fakültesi'mizde aþaðýdaki bölümler yer almaktadýr:
+1. Bilgisayar Mühendisliði 
+2. Elektrik-Elektronik Mühendisliði 
+3. Endüstri Mühendisliði
+4. Gýda Mühendisliði 
+5. Ýnþaat Mühendisliði
+6. Makine Mühendisliði
+
+Daha fazla bilgi için lütfen üniversitemizin web sitesini ziyaret edebilirsiniz: https://www.manisa.edu.tr/tr/fakulteler/muhendislik-fakultesi/anasayfa/
+
+31/05 10:14:31 User: Okul hakkýnda bilgi verir misin 
+31/05 10:14:31 MCBU ChatBot: Tabii, Manisa Celal Bayar Üniversitesi (MCBU), 1992 yýlýnda kurulmuþ bir devlet üniversitesidir. Þu anda üniversitede 11 fakülte, 6 yüksek okul ve 5 meslek yüksekokulu bulunmaktadýr. MCBU, öðrencilere lisans, yüksek lisans ve doktora programlarýnda 100'den fazla program sunmaktadýr. Ayrýca, üniversitemizde öðrencilere yurt imkaný, kütüphane, spor tesisleri, saðlýk merkezi, yemekhane gibi birçok farklý hizmet sunulmaktadýr. 
+
+Daha fazla bilgi için lütfen üniversitemizin web sitesini ziyaret edebilirsiniz: https://www.manisa.edu.tr
+
+31/05 10:15:00 User: bilgisayar mühendlisði 
+31/05 10:15:00 MCBU ChatBot: Bilgisayar Mühendisliði, MCBU Mühendislik Fakültesi'nin bir bölümüdür. Bu bölüm, yazýlým, donaným ve bilgisayar sistemleri konusunda öðrencilere teorik ve pratik beceriler kazandýrmayý amaçlar. Bölümde, öðrencilere programlama, veri yapýlarý, algoritma tasarýmý, bilgisayar mimarisi, veritabaný yönetimi, yapay zeka ve diðer ilgili konularda dersler verilir. Ayrýca öðrenciler, algoritmalarý tasarlamak ve yazýlým sistemlerini geliþtirmek için pratik beceriler kazanmak için laboratuvar çalýþmalarýna katýlýrlar.
+
+Daha fazla bilgi için lütfen MCBU Bilgisayar Mühendisliði sayfasýný ziyaret edebilirsiniz: https://www.manisa.edu.tr/tr/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi/anasayfa/  Ayrýca, üniversitemizin web sitesinde bölüm ve fakülteler hakkýnda daha fazla bilgiye de ulaþabilirsiniz: https://www.manisa.edu.tr/
+
+31/05 10:15:50 User: Can you give info about vocational training in workplace in computer engineering 
+31/05 10:15:50 MCBU ChatBot: Certainly! As a Computer Engineering student at Manisa Celal Bayar University, you will have the opportunity to participate in vocational training programs in the workplace. These programs are designed to provide you with practical experience in a real-life work environment, as well as to help you develop skills and knowledge that will be valuable in your future career. During the vocational training program, you will work at a company or organization that specializes in computer engineering or a related field, and you will be supervised by experienced professionals. You will have the chance to work on real-world projects, solve real problems, and gain new skills that are in demand in the industry.
+
+For more information on the vocational training and other programs offered by the Computer Engineering Department of MCBU, please visit the following link: https://www.manisa.edu.tr/en/fakulteler/muhendislik-fakultesi/bilgisayar-muhendisligi/programs/  Additionally, you can visit the university's website to learn more about the vocational training programs available in other departments and faculties.

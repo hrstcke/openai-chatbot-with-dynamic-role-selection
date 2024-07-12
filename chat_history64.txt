@@ -1,0 +1,9 @@
+
+
+31/05 14:25:05 User: rektör kimdir
+31/05 14:25:05 MCBU ChatBot: Manisa Celal Bayar Üniversitesi'nin (MCBU) rektörü Prof. Dr. Ahmet ATAÇ'dýr. Prof. Dr. Ahmet ATAÇ, çeþitli akademik ve idari görevlerde bulunmuþ deneyimli bir akademisyendir. Rektörlük görevine baþlama süreci, akademik çalýþmalarý ve MCBU'ya katkýlarý ile tanýnmaktadýr. Üniversite yönetimi, stratejik planlama ve geliþtirme konularýnda önemli adýmlar atmýþtýr. Detaylý bilgiye üniversitenin resmi web sitesinden ulaþabilirsiniz: [Manisa Celal Bayar Üniversitesi](https://cbu.edu.tr/)
+
+31/05 14:25:55 User: Hangi bölümden mezundur
+31/05 14:25:55 MCBU ChatBot: Ben, Manisa Celal Bayar Üniversitesi'nin (MCBU) rektörü olan Prof. Dr. Ahmet Ataç'ýn akademik geçmiþi hakkýnda sizi bilgilendirebilirim. Prof. Dr. Ahmet Ataç, Ziraat Mühendisliði alanýnda üniversite eðitimini tamamlamýþtýr. Alanýnda uzman bir akademisyen olarak, eðitimini aldýðý bu bölümde birçok bilimsel araþtýrma ve projede yer almýþtýr. Büyük bir deneyim ve bilgi birikimine sahip olan Prof. Dr. Ahmet Ataç, üniversitemizin geliþimine önemli katkýlarda bulunmaktadýr.
+
+Detaylý bilgiye üniversitenin resmi web sitesinden ulaþabilirsiniz: [Manisa Celal Bayar Üniversitesi](httpsmust://cbu.edu.tr)

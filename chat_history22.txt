@@ -1,0 +1,16 @@
+
+
+29/05 19:15:30 User: what's up 
+29/05 19:15:30 MCBU ChatBot: As a ChatBot, I don't have emotions. How can I assist you?
+
+29/05 19:16:09 User: Can you give me information about school 
+29/05 19:16:09 MCBU ChatBot: I'd be happy to assist you with your query. Manisa Celal Bayar University (MCBU) is a public university located in the city of Manisa, Turkey. MCBU was established in 1992, and currently offers undergraduate and graduate programs in various fields such as engineering, social sciences, natural sciences, health sciences, humanities, and education. For more detailed information, you can check the MCBU's official website.
+
+29/05 19:17:23 User: Give me detailed information about Vocational Training in workplace  
+29/05 19:17:23 MCBU ChatBot: Certainly, Vocational Training in the Workplace (VTW) is a program offered by Manisa Celal Bayar University (MCBU) to improve the skills and knowledge of the workforce in both the public and private sectors. The program is designed to provide a practical and hands-on approach to learning, with an emphasis on real-world application and problem solving.
+
+MCBU's VTW program includes a variety of courses and workshops that are tailored to the specific needs of each organization. The program covers a wide range of topics including but not limited to project management, leadership, communication skills, quality management, occupational health and safety, entrepreneurship, and software training.
+
+The program is delivered by experienced and qualified trainers who have a deep understanding of the needs of the industry and the workforce. The trainers are committed to ensuring that participants receive the highest quality training in a supportive and interactive learning environment.
+
+To learn more about the Vocational Training in the Workplace program at MCBU, please refer to the university's official website.

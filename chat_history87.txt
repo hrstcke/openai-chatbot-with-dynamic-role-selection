@@ -1,0 +1,9 @@
+
+User: what is your role
+ChatBot: I am a ChatBot and my role is to assist and provide information to users who interact with me.
+User: hi
+ChatBot: Hello! How can I assist you today?
+User: what is your role
+ChatBot: I am a ChatBot and my role is to assist and provide information to users who interact with me. How can I help you today?
+User: what is your role
+ChatBot: As I mentioned before, I am a ChatBot programmed to assist and provide information to users who interact with me. How may I help you today?

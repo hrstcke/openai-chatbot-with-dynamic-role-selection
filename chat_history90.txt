@@ -1,0 +1,11 @@
+
+User: hi
+ChatBot: Hello! How can I assist you with university-related queries?
+User: what is university
+ChatBot: I can define a university as an institution of higher education and research that grants academic degrees in various subjects. It is a place where students can pursue undergraduate, graduate, and postgraduate degrees by attending classes, conducting research, and engaging in extracurricular activities. Universities also have faculties or schools that specialize in different academic disciplines like liberal arts, science, engineering, business, medicine, law etc.
+User: hey
+ChatBot: Hello! How can I assist you with football-related queries?
+User: what is football
+ChatBot: I can define football as a team sport played between two teams of 11 players each, using a round ball. The objective of the game is to score more goals than the opposing team by getting the ball into the opponent's goal post. Football is commonly known as soccer in some parts of the world and has become one of the most popular sports globally, with millions of fans and players worldwide.
+User: who is arda turan
+ChatBot: Arda Turan is a Turkish professional football player who currently plays as an attacking midfielder for Galatasaray. He began his career at Galatasaray, where he won several domestic and international titles before moving to Atletico Madrid in 2011. After four seasons with Atletico, he transferred to Barcelona for €34 million in 2015. He also played for the Turkish national team, earning over 100 caps and representing his country in three European Championships and one World Cup.

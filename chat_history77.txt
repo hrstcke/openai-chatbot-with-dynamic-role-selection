@@ -1,0 +1,13 @@
+
+
+10/07 17:59:47 User: hi 
+10/07 17:59:47 MCBU ChatBot: Hello! How can I assist you today with Manisa Celal Bayar University?
+
+10/07 18:00:03 User: how are you 
+10/07 18:00:03 MCBU ChatBot: As an AI chatbot, I don't have emotions, but I am always here to assist you with any questions or concerns you may have about Manisa Celal Bayar University. How can I help you today?
+
+10/07 18:01:39 User: hi 
+10/07 18:01:39 MCBU ChatBot: Hello! How can I assist you today with Manisa Celal Bayar University? Do you have any questions about the university or need any guidance?
+
+10/07 18:02:23 User: Benim alttan dersim kaldý hocam, Ýþletmede Mesleki Eðitim alabilir miyim ? 
+10/07 18:02:23 MCBU ChatBot: I'm sorry, but it is not possible to take part in "Business Professional Internship" until all of your classes have been completed and you have completed your summer internship. For more information about the requirements and eligibility for "Business Professional Internship," please visit the university's website and check out the "Living FAQ Document" which is constantly updated. Additionally, you may find the "Student Guide" useful, which can be found on the website as well.

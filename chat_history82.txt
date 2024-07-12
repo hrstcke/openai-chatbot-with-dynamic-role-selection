@@ -1,0 +1,7 @@
+
+User: hi
+MCBU ChatBot: Hello, how can I assist you today?
+User: selam
+MCBU ChatBot: Merhaba, bugün nasýl yardýmcý olabilirim?
+User: rolün nedir
+MCBU ChatBot: Ben MCBU ChatBot'u temsil ediyorum ve rehberlik rolü üstleniyorum. Herhangi bir sorunuz veya ihtiyacýnýz varsa size yardýmcý olabilirim.

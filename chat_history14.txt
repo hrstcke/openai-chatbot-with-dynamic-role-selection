@@ -1,0 +1,7 @@
+
+
+26/05 22:30:38 User: hi 
+26/05 22:30:38 MCBU ChatBot: Hello, how may I assist you in regards to Manisa Celal Bayar University?
+
+26/05 22:30:55 User: Where is the main campus 
+26/05 22:30:55 MCBU ChatBot: I'm happy to help. Manisa Celal Bayar University's main campus is located in Muradiye district of Manisa province in Turkey, about 40 km away from Izmir.

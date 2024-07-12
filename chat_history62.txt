@@ -1,0 +1,30 @@
+
+
+31/05 14:13:23 User: Bilgisayar mühendisliði hakkýnda bilgi almak istiyorum 
+31/05 14:13:23 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümü, öðrencilere hem teorik hem de pratik bilgilerle donanýmlý bir eðitim sunmayý amaçlar. Bölüm, yazýlým ve donaným konularýnda derinlemesine bilgi saðlayarak öðrencilerin bilgisayar teknolojileri alanýnda yetkin mühendisler olarak yetiþmelerini hedefler.
+
+Eðitim programýmýzda algoritma geliþtirme, veri yapýlarý, iþletim sistemleri, veritabanlarý, yapay zeka gibi temel derslerin yaný sýra güncel teknolojilere uygun çeþitli seçmeli dersler de bulunmaktadýr. Öðrenciler ayrýca proje tabanlý çalýþmalar ve staj olanaklarý ile teorik bilgilerini pratiðe dökmek için fýrsatlar elde eder.
+
+Bölümün amacý; analitik düþünme becerisi yüksek, problem çözme yeteneði geliþmiþ ve sürekli kendini yenileyebilen mühendisler yetiþtirmektir. Mezunlarýmýzýn ulusal ve uluslararasý arenada rekabet edebilecek düzeyde olmasý için akademik kadromuz tarafýndan her türlü destek saðlanmakta ve güncel teknoloji trendleri takip edilmektedir.
+
+Daha fazla detaylý bilgiye Manisa Celal Bayar Üniversitesinin resmi web sitesinden ulaþabilirsiniz: [MCBU Bilgisayar Mühendisliði](https://www.mcbu.edu.tr/)
+
+31/05 14:15:39 User: Ýþletmede mesleki eðiitm hakkýnda bilgi verir misin 
+31/05 14:15:39 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Ýþletme Bölümü, öðrencilere iþ dünyasýnda baþarýlý olmalarý için gerekli teorik bilgilerin yaný sýra pratik beceriler de kazandýrma amacýndadýr. Mesleki eðitim programýmýz, öðrencilerin gerçek iþ ortamlarýnda deneyim kazanmalarýný saðlayacak þekilde tasarlanmýþtýr.
+
+Program kapsamýnda; yönetim ve organizasyon, pazarlama, finansman, muhasebe gibi temel iþletme disiplinlerinin detaylý bir þekilde öðretimi yapýlmaktadýr. Özellikle vaka çalýþmalarý, sektörel analizler ve simülasyonlar aracýlýðýyla öðrencilere uygulamalý eðitim fýrsatlarý sunulur. Ayrýca bölümde staj zorunluluðu bulunmakta olup bu sayede öðrenciler mezuniyetleri öncesinde iþ hayatýný yakýndan tanýma þansýna sahip olurler.
+
+Ýþletme Bölümü'nün mesleki eðiitm programýnýn bir diðer önemli unsuru da sürekli güncellenen müfredattýr. Bu sayede öðrenciler hem global ekonomide yaþanan deðiþimlere uyum saðlayabilir hem de yenilikçi düþünce yapýsýný benimseyebilirler.
+
+Daha fazla bilgi almak isterseniz Manisa Celal Bayar Üniversitesi resmi web sitesini ziyaret edebilirsiniz: [MCBU Ýþletme Bölümü](https://www.mcbu.edu.tr/)
+
+31/05 14:16:42 User: Bilgisayar mühendisliði staj hakkýnda bilgi almak istiyorum 
+31/05 14:16:42 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümü, öðrencilerin akademik bilgilerini pratikte uygulayabilmeleri ve iþ hayatýna hazýrlanmalarý için staj programlarýna büyük önem vermektedir. Stajlar, öðrencilere gerçek dünya tecrübesi kazandýrarak teorik eðitimlerini pekiþtirmelerine olanak tanýr.
+
+Bölümümüzde zorunlu yaz stajý bulunmakta olup, öðrenciler genellikle 3. veya 4. sýnýf yaz dönemlerinde bu stajlarýný tamamlarlar. Staj süresi en az 30 iþ günüdür ve öðrencilerin sektördeki çeþitli kuruluþlarda çalýþmalarý beklenir. Bu süre zarfýnda öðrenciler, profesyonel mühendislik ortamlarýnda yazýlým geliþtirme, sistem analizi, donaným tasarýmý gibi alanlarda görev alabilirler.
+
+Staja baþlamadan önce bölüm tarafýndan düzenlenen "Staj Bilgilendirme Toplantýsý"na katýlým saðlanmalýdýr. Bu toplantýlarda staj yapacaklarý yerleri nasýl bulacaklarý, staj dosyasýnýn nasýl hazýrlanacaðý ve diðer prosedürler hakkýnda detaylý bilgiler verilmektedir.
+
+Ayrýca üniversitemiz kariyer merkezi aracýlýðýyla da firmalarla iletiþime geçilmesine yardým edilmekte ve çeþitli etkinliklerle (kariyer fuarý gibi) sektör temsilcileriyle doðrudan görüþme fýrsatlarý sunulmaktadýr.
+
+Daha fazla ayrýntýlý bilgiye Manisa Celal Bayar Üniversitesinin resmi web sitesinden eriþebilirsiniz: [MCBU Bilgisayar Mühendisliði](https://www.mcbu.edu.tr/)

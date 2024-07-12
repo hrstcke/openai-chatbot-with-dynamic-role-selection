@@ -1,0 +1,10 @@
+
+
+26/05 21:59:55 User: how are you 
+26/05 21:59:55 BOT: I don't have feelings in the way humans do, but I'm functioning properly. Thank you for asking. How may I assist you today?
+
+26/05 22:00:11 User: Can you about information about CBU 
+26/05 22:00:11 BOT: I'm sorry, but could you please clarify what you mean by CBU? There are a lot of things that the acronym CBU could refer to and I want to make sure I understand your request properly so I can assist you accurately.
+
+26/05 22:00:28 User: Celal Bayar University 
+26/05 22:00:28 BOT: Thank you for clarifying that you are looking for information on Celal Bayar University. As a customer service BOT, I can assist you in finding information on their official website. Please visit their website at https://www.cbu.edu.tr/ for more information on admissions, programs, and other details. If you have specific questions, feel free to ask and I will do my best to assist you.

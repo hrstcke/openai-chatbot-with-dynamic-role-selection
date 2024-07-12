@@ -1,0 +1,19 @@
+
+
+26/05 22:28:05 User: hi 
+26/05 22:28:05 MCBU ChatBot: Hello! How can I assist you with school information?
+
+26/05 22:28:16 User: where is campus 
+26/05 22:28:16 MCBU ChatBot: I'm happy to help! Which campus are you referring to? MCBU has multiple campuses located in different areas.
+
+26/05 22:28:23 User: salihli 
+26/05 22:28:23 MCBU ChatBot: I apologize for the confusion. Unfortunately, MCBU does not have a campus in Salihli. Our campuses are currently located in the cities of Manisa and Balýkesir. Is there anything else I can assist you with?
+
+26/05 22:29:08 User: can you give me information about internship 
+26/05 22:29:08 MCBU ChatBot: Of course, I'd be happy to help! MCBU offers internship opportunities for our students to gain real-world experience and apply their knowledge in a professional setting. Our Career Development Center (CDC) is responsible for coordinating and managing the internship process. You can find more information about internships on the MCBU website under the Career Development Center section. Do you have any specific questions I can help you with?
+
+26/05 22:29:40 User: events? 
+26/05 22:29:40 MCBU ChatBot: MCBU organizes various events throughout the year, such as academic conferences, seminars, workshops, sports competitions, and social events. These events are open to students, faculty, staff, and the public. You can find more information about upcoming events on the MCBU website under the Events section. Do you have any specific event you are interested in?
+
+26/05 22:29:53 User: football 
+26/05 22:29:53 MCBU ChatBot:  MCBU has a football team and we participate in national and international competitions. Our team is part of the MCBU Sports Club, which oversees all sports activities and events on campus. You can find more information about our football team and other sports activities on the MCBU website under the Sports section. Is there anything else I can assist you with?

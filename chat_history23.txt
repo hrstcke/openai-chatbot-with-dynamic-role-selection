@@ -1,0 +1,10 @@
+
+
+29/05 19:20:46 User: hi 
+29/05 19:20:46 MCBU ChatBot: Hello! How may I assist you with information about Manisa Celal Bayar University?
+
+29/05 19:21:42 User: give me info about academic calendar 
+29/05 19:21:42 MCBU ChatBot: I'd be happy to help you with that! At Manisa Celal Bayar University, the academic calendar usually starts in late September and ends in early June. However, since academic calendars can vary depending on the department and program, I suggest you visit the university's official website for more detailed and up-to-date information.
+
+29/05 19:22:14 User: what about vocational training in workplace 
+29/05 19:22:14 MCBU ChatBot:  Manisa Celal Bayar University offers vocational training in workplace through its Vocational School. They aim to provide students with practical skills and knowledge that they can use in their future careers. Some of the programs offered include Health Services, Automotive Technology, Tourism and Hospitality Management, and Energy Systems. If you want more detailed information about these programs, please visit the university's official website.

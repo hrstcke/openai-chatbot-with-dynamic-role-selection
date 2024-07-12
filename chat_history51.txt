@@ -1,0 +1,35 @@
+
+
+31/05 10:08:07 User: hi 
+31/05 10:08:07 MCBU ChatBot: Hello! How can I assist you with information about Manisa Celal Bayar University?
+
+31/05 10:08:24 User: mühenslik fakültesinde hangi bölümler var 
+31/05 10:08:24 MCBU ChatBot: Mühendislik Fakültesi'nde Elektrik-Elektronik Mühendisliði, Endüstri Mühendisliði, Ýnþaat Mühendisliði ve Makine Mühendisliði bölümleri bulunmaktadýr. Bu bölümler hakkýnda daha detaylý bilgi almak için Manisa Celal Bayar Üniversitesi'nin resmi web sitesini ziyaret edebilirsiniz.
+
+31/05 10:08:59 User: daha detaylý bilgi verir misin 
+31/05 10:08:59 MCBU ChatBot: Tabii, Mühendislik Fakültesi'nde Elektrik-Elektronik Mühendisliði bölümü, elektrik ve elektronik alanlarýnda uzman mühendisler yetiþtirmeyi amaçlamaktadýr. Endüstri Mühendisliði bölümü ise üretim sistemleri tasarýmý, iþletme yönetimi ve kalite kontrol gibi konularda eðitim vermektedir. Ýnþaat Mühendisliði bölümünde öðrenciler yapýlarýn tasarýmý, inþasý ve bakýmý hakkýnda bilgi sahibi olurlar. Makine Mühendisliði bölümünde ise öðrencilere makine parçalarýnýn tasarýmý, imalatý ve montajý konularýnda eðitim verilmektedir.
+
+Manisa Celal Bayar Üniversitesi'nin resmi web sitesinde bu bölümler hakkýnda daha detaylý bilgiler bulabilirsiniz. Ayrýca fakültelerdeki diðer programlar hakkýnda da orada bilgi edinebilirsiniz.
+
+31/05 10:09:23 User: Tüm bölümleri eksiksiz sayar mýsýn 
+31/05 10:09:23 MCBU ChatBot: Tabii, Manisa Celal Bayar Üniversitesi'nde þu an 11 fakülte ve bunlara baðlý 1 yüksekokul bulunmaktadýr. Bu fakülteler ve yüksekokullar þöyledir:
+
+1. Mühendislik Fakültesi
+2. Ýktisadi ve Ýdari Bilimler Fakültesi
+3. Fen Edebiyat Fakültesi
+4. Güzel Sanatlar Fakültesi
+5. Hukuk Fakültesi
+6. Týp Fakültesi 
+7. Ziraat ve Doða Bilimleri Fakültesi 
+8. Veterinerlik Fakültesi 
+9. Spor Bilimleri Fakültesi 
+10.Teknik Bilimler Meslek Yüksekokulu 
+
+Manisa Celal Bayar Üniversitesinin resmi web sitesinde bu bölümler hakkýnda daha detaylý bilgiler bulabilirsiniz: https://www.mcbu.edu.tr/
+
+31/05 10:10:10 User: Mühendislik fakültesinde stajlar hakkýnda bilgi verir misin 
+31/05 10:10:10 MCBU ChatBot: Tabii, Mühendislik Fakültesi'nde öðrencilerin staj yapmalarý zorunludur. Stajlar genellikle yaz döneminde gerçekleþtirilir ve 30 iþ günü sürer. Öðrenciler stajlarýný seçtikleri bir firma veya kurumda yapabilirler. Staj yeri seçimi öðrencinin kendi tercihine baðlýdýr ancak fakülte tarafýndan belirlenen bazý þartlarý saðlamasý gerekmektedir.
+
+Staj süresince öðrenciler, teorik bilgilerini uygulamalý olarak kullanma fýrsatý bulurlar ve meslek hayatýna yönelik deneyim kazanýrlar. Ayrýca staj sonunda hazýrladýklarý raporlarla da hem kendilerini geliþtirme imkanýna sahip olurlar hem de aldýklarý eðitimin kalitesi hakkýnda geribildirim saðlayabilirler.
+
+Daha detaylý bilgi için Manisa Celal Bayar Üniversitesi'nin resmi web sitesindeki Mühendislik Fakültesi sayfasýný ziyaret edebilirsiniz: https://mf.mcbu.edu.tr/tr/staj-ve-proje

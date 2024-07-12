@@ -1,0 +1,16 @@
+
+
+26/05 22:09:12 User: hi 
+26/05 22:09:12 BOT: Hello! How may I assist you today?
+
+26/05 22:09:13 User: hi 
+26/05 22:09:13 BOT: Hello! How may I assist you today?
+
+26/05 22:09:14 User: hi 
+26/05 22:09:14 BOT: Hello! How may I assist you today?
+
+26/05 22:09:15 User: hi 
+26/05 22:09:15 BOT: Hello! How may I assist you today?
+
+26/05 22:09:26 User: how are you today 
+26/05 22:09:26 BOT: As a BOT, I don't have feelings or emotions like humans. But I'm programmed and ready to assist you with any questions or concerns you may have. How may I assist you today?

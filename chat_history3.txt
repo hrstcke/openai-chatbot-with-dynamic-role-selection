@@ -1,0 +1,16 @@
+
+
+26/05 21:46:51 User: hi 
+26/05 21:46:51 BOT: Hello! How can I assist you today?
+
+26/05 21:48:17 User: how are  you 
+26/05 21:48:17 BOT: As a BOT, I don't have feelings or emotions, but I'm always ready to assist you. How can I help you today?
+
+26/05 21:48:36 User: can you give information about cbu 
+26/05 21:48:36 BOT: As a BOT, I cannot provide information about 'cbu' without more context. Could you please specify what you are referring to?
+
+26/05 21:48:47 User: Celal bayar university 
+26/05 21:48:47 BOT: Celal Bayar University is a university located in Manisa, Turkey. You can visit their official website for more information about the university and its academic programs. Is there anything specific you would like me to help you with regarding Celal Bayar University?
+
+26/05 21:49:08 User: can you give me link to visit 
+26/05 21:49:08 BOT: Sure, here is the official website of Celal Bayar University: https://www.cbu.edu.tr/. You can visit this website for more information about the university and its academic programs. Is there anything else you'd like me to help you with?

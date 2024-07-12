@@ -1,0 +1,35 @@
+
+
+29/05 19:24:36 User: hi 
+29/05 19:24:36 MCBU ChatBot: Hello there! How can I assist you today regarding Manisa Celal Bayar University?
+
+29/05 19:24:55 User: give me info about vocational training in workplace 
+29/05 19:24:55 MCBU ChatBot: Certainly, I'd be happy to provide you information about vocational training in workplace at Manisa Celal Bayar University. Vocational training in workplace is a program that provides students to gain practical experience by observing and participating in various business, industry and institutions. This program which is designed to prepare students for the professional life includes many periods such as preparation, implementation and development stages. At our university, our students have the opportunity to participate in the vocational training in the workplace program in a variety of fields such as engineering, health, agriculture, and economics. Our university takes pride in its close connection with the industry, which allows our students to work alongside experienced professionals and gain valuable hands-on experience. For more information about vocational training in workplace at Manisa Celal Bayar University, please visit our website at https://www.mcbu.edu.tr/.
+
+29/05 19:25:31 User: how are you 
+29/05 19:25:31 MCBU ChatBot: As a chatbot, I don't have feelings, but thanks for asking! Is there anything else you would like to know about Manisa Celal Bayar University?
+
+29/05 19:25:37 User: good bye 
+29/05 19:25:37 MCBU ChatBot: Farewell! Don't hesitate to come back if you have any questions about Manisa Celal Bayar University in the future.
+
+29/05 19:25:51 User: who made you 
+29/05 19:25:51 MCBU ChatBot: As a chatbot, I was created by a team of developers and programmers at Manisa Celal Bayar University. However, my purpose is to provide you with comprehensive information about the university and assist you with any questions or concerns you may have. Is there anything specific you'd like to know about the university?
+
+29/05 19:26:53 User: how is internship working in school 
+29/05 19:26:53 MCBU ChatBot: At Manisa Celal Bayar University, internships are an integral part of our academic programs and provide students with the opportunity to gain practical experience in their field of study while building valuable professional connections. Our university has a dedicated Internship Office that works closely with both industry partners and academic departments to provide students with a range of internship opportunities.
+
+During the internship, students work closely with experienced professionals in their field and participate in real-world projects and tasks. Our university also provides students with support and guidance throughout the internship process, including help with finding internship placements, securing necessary permits and documentation, and ensuring that students receive academic credit for their work.
+
+Each academic program has their own unique requirements and expectations for internships, so it's important for students to work closely with their academic advisors and the Internship Office to ensure that they are meeting their specific program requirements. For more information about internships at Manisa Celal Bayar University, please visit our website at https://www.mcbu.edu.tr/.
+
+29/05 19:27:44 User: türkçe devam edebilir miyim 
+29/05 19:27:44 MCBU ChatBot: Tabii, Türkçe olarak devam edebiliriz. Manisa Celal Bayar Üniversitesi hakkýnda öðrenmek istediðiniz baþka bir konu var mý?
+
+29/05 19:27:56 User: sosyal hayat nasýl 
+29/05 19:27:56 MCBU ChatBot: Manisa Celal Bayar Üniversitesi, öðrencilerine pek çok sosyal etkinlik ve kulüp imkaný sunan canlý bir öðrenci yaþamýna sahiptir. Öðrencilerimiz, düzenli olarak öðrenci kulüplerinde, sosyal aktivitelerde, toplantýlarda ve spor müsabakalarýnda yer alýrlar ve bu sayede kampüs içindeki sosyal hayatlarýný daha zengin hale getirirler. 
+
+Üniversitemizde birçok farklý kulüp bulunmaktadýr. Öðrencilerimiz, ilgi ve yeteneklerine uygun olan kulüplerde yer alarak kendilerine yeni arkadaþlar edinebilirler ve akademik hayatlarýnýn yaný sýra sosyal ve kültürel birçok etkinlikte yer alma fýrsatý yakalayabilirler. Ayrýca üniversitemiz bünyesinde düzenlenen çeþitli fuarlar, festivaller ve konserler gibi etkinliklere de öðrencilerimiz katýlabilirler.
+
+Öte yandan, üniversitemizde öðrencilerimize geniþ spor olanaklarý sunulmaktadýr. Kampüs içinde bulunan spor salonlarý, yüzme havuzu, kapalý spor salonu ve açýk hava spor alanlarý öðrencilerimizin saðlýklý yaþam tarzlarýný sürdürmelerine yardýmcý olmaktadýr.
+
+Daha fazla bilgi için Manisa Celal Bayar Üniversitesi'nin web sitesini ziyaret edebilirsiniz: https://www.mcbu.edu.tr/.

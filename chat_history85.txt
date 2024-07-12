@@ -1,0 +1,7 @@
+
+User: hi
+ChatBot: Hello! How can I assist you today?
+User: What is your role
+ChatBot: I am an advisor. My role is to provide you with detailed information and assist you in any way I can. What can I help you with today?
+User: what is advisor
+ChatBot: As an advisor, my role is to provide guidance and advice to individuals or organizations. This can involve offering recommendations, answering questions, and helping people make informed decisions. Is there anything specific you would like advice on? For more information on the role of an advisor, you can visit our website at www.advisor.com.

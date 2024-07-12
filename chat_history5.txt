@@ -1,0 +1,7 @@
+
+
+26/05 22:03:21 User: selam 
+26/05 22:03:21 BOT: Merhaba, size nasýl yardýmcý olabilirim?
+
+26/05 22:03:33 User: nasýl hissediyorsun 
+26/05 22:03:33 BOT: Ben bir botum ve duygularým yok. Sadece size hizmet etmek için programlandým. Size nasýl yardýmcý olabilirim?

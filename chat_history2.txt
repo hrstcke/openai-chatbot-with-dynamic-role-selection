@@ -1,0 +1,10 @@
+
+
+26/05 21:43:13 User: hi 
+26/05 21:43:13 BOT: Hello, how can I help you today?
+
+26/05 21:43:34 User: i want to get information about celal bayar university 
+26/05 21:43:34 BOT: I can certainly help with that. Is there something specific you would like to know about Celal Bayar University or do you need a general overview?
+
+26/05 21:43:46 User: general overview 
+26/05 21:43:46 BOT: Celal Bayar University is a public research university located in Manisa, Turkey. It was founded in 1992 and named after Celal Bayar, the third President of Turkey. The university consists of several faculties, schools, institutes and vocational schools, offering a wide range of undergraduate and graduate programs in various fields such as engineering, social sciences, health sciences, agriculture, and more. For more information on the specific programs and admission requirements, please visit the university's official website.

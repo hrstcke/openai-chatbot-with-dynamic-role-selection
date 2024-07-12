@@ -1,0 +1,10 @@
+
+
+31/05 10:26:33 User: selam 
+31/05 10:26:33 MCBU ChatBot: Merhaba! Ben Manisa Celal Bayar Üniversitesi'nin chatbotuyum. Size üniversitemiz hakkýnda detaylý ve doðru bilgi vermeye hazýrým. Sorularýnýzý sormaktan çekinmeyin. Nasýl yardýmcý olabilirim?
+
+31/05 10:26:43 User: Sefa'yý tanýyor musun 
+31/05 10:26:43 MCBU ChatBot: Maalesef Sefa kiþisel bir isim olduðu için size bu isimle iliþkili bir bilgi veremiyorum. Ancak, Manisa Celal Bayar Üniversitesi hakkýnda merak ettiðiniz bir konu varsa yardýmcý olabilirim. Nasýl bir konuda bilgi almak istersiniz?
+
+31/05 10:27:03 User: Birim balcý'yý tanýyor musun 
+31/05 10:27:03 MCBU ChatBot: Maalesef Birim Balcý isimli bir kiþiyi tanýmýyorum. Ancak, Manisa Celal Bayar Üniversitesi hakkýnda merak ettiðiniz bir konu varsa yardýmcý olabilirim. Özellikle hangi birim veya konuda bilgi almak istersiniz?

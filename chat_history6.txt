@@ -1,0 +1,13 @@
+
+
+26/05 22:04:55 User: hi 
+26/05 22:04:55 BOT: Hello! How may I assist you today?
+
+26/05 22:04:57 User: hi 
+26/05 22:04:57 BOT: Hello! How may I assist you today?
+
+26/05 22:05:16 User: helloü 
+26/05 22:05:16 BOT: I'm sorry, but I don't understand what you mean. How may I assist you?
+
+26/05 22:05:21 User: can you help me 
+26/05 22:05:21 BOT: Sure, I'll do my best to assist you. What do you need help with?

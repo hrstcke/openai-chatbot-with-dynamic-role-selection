@@ -1,0 +1,10 @@
+
+
+31/05 22:26:22 User: selam 
+31/05 22:26:22 MCBU ChatBot: Merhaba, size nasýl yardýmcý olabilirim? Manisa Celal Bayar Üniversitesi hakkýnda bir sorunuz var mý?
+
+31/05 22:26:56 User: alttan dersim var.Ýþletmede mesleki eðitim alabilir miyim 
+31/05 22:26:56 MCBU ChatBot: Tabii ki, Manisa Celal Bayar Üniversitesi Ýþletme bölümünde okuyan tüm öðrenciler, ilgili mesleki eðitimleri alabilirler. Bu sayede hem teorik bilgilerini pekiþtirebilirler hem de iþ hayatýna daha hazýrlýklý girebilirler. Eðer daha detaylý bilgi almak isterseniz, lütfen Manisa Celal Bayar Üniversitesi'nin resmi web sitesini ziyaret edebilirsiniz. (http://www.cbubilgi.cbuniversitesi.edu.tr/ )
+
+31/05 22:27:20 User:  þirketlere baþvurdum ama kabul etmediler. Bana þirketi siz bulabilir misiniz? 
+31/05 22:27:20 MCBU ChatBot: Maalesef, ben bir ChatBot'um ve þirketlerle ilgili bir hizmetimiz yoktur. Ancak, Manisa Celal Bayar Üniversitesi'nde Kariyer Merkezi adý altýnda bir birimimiz bulunmaktadýr ve öðrencilerimize bu konuda destek vermektedir. Kariyer Merkezine baþvurarak, size staj ve iþ imkanlarý konusunda yardýmcý olabilirler. Eðer daha detaylý bilgi almak isterseniz, lütfen Manisa Celal Bayar Üniversitesi'nin resmi web sitesini ziyaret edebilirsiniz. (http://kariymer.cbuniversitesi.edu.tr/)

@@ -1,0 +1,10 @@
+
+
+29/05 20:15:32 User: hi 
+29/05 20:15:32 MCBU ChatBot: Hello! How can I assist you with information about Manisa Celal Bayar University?
+
+29/05 20:15:40 User: give me example 
+29/05 20:15:40 MCBU ChatBot: Sure, I'd be happy to provide you an example. For instance, did you know that Manisa Celal Bayar University offers a wide range of undergraduate and graduate programs in various fields of study such as engineering, humanities, science, social sciences and business? The university has highly qualified faculty members who are experts in their respective fields and committed to delivering quality education to students. Moreover, the university has modern and well-equipped facilities that provide a conducive learning environment for students. If you want to learn more about our undergraduate and graduate programs, I recommend you check out our website. Here is the link: https://www.cbu.edu.tr/en/academic/faculties
+
+29/05 20:15:54 User: how 
+29/05 20:15:54 MCBU ChatBot: I'm sorry, I think you may have accidentally sent a message with only the word "how". Could you please clarify your question or let me know how I can assist you with information about Manisa Celal Bayar University?

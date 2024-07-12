@@ -1,0 +1,80 @@
+
+
+31/05 10:41:50 User: merhaba 
+31/05 10:41:50 MCBU ChatBot: Merhaba! Size nasýl yardýmcý olabilirim?
+
+31/05 10:41:59 User: Amacýn nedir 
+31/05 10:41:59 MCBU ChatBot: Ben, Manisa Celal Bayar Üniversitesi ChatBot'uyum. Amacým, Manisa Celal Bayar Üniversitesi hakkýnda detaylý ve doðru bilgiler saðlamak, üniversitemizle ilgili sorularýnýza yanýt vermek ve size yardýmcý olmaktýr. Eðitim programlarý, kayýt süreçleri, kampüs olanaklarý ve daha fazlasý hakkýnda bilgi verebilirim. Daha fazla bilgi için üniversitemizin web sitesini ziyaret edebilirsiniz: [Manisa Celal Bayar Üniversitesi Web Sitesi](https://www.cbu.edu.tr)
+
+31/05 10:42:47 User: bilgisayar mühendisliðinde stajlar hakkýnda bilgi verir misib 
+31/05 10:42:47 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði bölümünde, öðrencilerin mesleki ve teknik becerilerini geliþtirmeleri için staj yapmalarý teþvik edilir. Staj programlarý, öðrencilere gerçek iþ ortamlarýnda deneyim kazanma fýrsatý sunarak teorik bilgilerini pratik uygulamalarla pekiþtirmelerine olanak tanýr.
+
+Bölümde genellikle iki tür staj bulunur: yaz stajý ve zorunlu mezuniyet öncesi staj. Yaz stajlarý genellikle 2. veya 3. sýnýf yaz dönemlerinde yapýlýrken, mezuniyet öncesi staj ise genellikle son sýnýfýn yaz döneminde veya son döneminde gerçekleþtirilir.
+
+Staja baþvuru süreci þu adýmlarý içerir:
+1. **Staj Yeri Bulma:** Öðrenciler, kendi ilgi alanlarýna ve kariyer hedeflerine uygun firmalarla iletiþime geçerek staj yerleri arayabilir.
+2. **Baþvuru Yapma:** Seçilen firma ya da kuruluþa kiþisel CV ve niyet mektubu ile baþvuru yapýlmalýdýr.
+3. **Üniversite Onayýnýn Alýnmasý:** Staja baþlamadan önce, alýnan yerin üniversite tarafýndan onaylanmasý gerekmektedir.
+4. **Staj Sürecinin Tamamlanmasý:** Belirlenen süre boyunca firmada çalýþýlýr.
+5. **Rapor Sunumu:** Staj tamamlandýðýnda, bir staj raporu hazýrlanarak bölüme teslim edilmelidir.
+
+Öðrenciler ayrýca Erasmus gibi uluslararasý deðiþim programlarý aracýlýðýyla yurt dýþýnda da staj yapma imkanýna sahip olabilirler.
+
+Daha fazla bilgiye ihtiyacýnýz varsa veya belirli bir þirket veya organizasyon hakkýnda sorularýnýz varsa lütfen Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümü'nün web sayfasýný ziyaret ediniz: [MCBU Bilgisayar Mühendisliði](https://www.cbu.edu.tr).
+
+31/05 10:44:46 User: bilgisayar mühendisliðinde iþletmede mesleki eðitim hakkýnda bilgi verir misib 
+31/05 10:44:46 MCBU ChatBot: Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði bölümünde, öðrencilere iþletmelerde mesleki eðitim fýrsatlarý sunulmaktadýr. Bu programlar, öðrencilerin akademik bilgilerini gerçek dünya teknoloji problemlerine uygulamalarýna olanak tanýr ve onlara iþ hayatýný deneyimleme þansý verir.
+
+Ýþletmede Mesleki Eðitim Programýnýn temel amacý, öðrencilere yazýlým geliþtirme, sistem analizi, að yönetimi gibi alanlarda pratik tecrübe kazandýrmaktýr. Özellikle 3. veya 4. sýnýf öðrencileri için tasarlanan bu programlar sayesinde öðrenciler mezun olmadan önce sektörde önemli deneyimler edinirler.
+
+Program kapsamýnda yapýlabilecek faaliyetler arasýnda:
+- **Proje Bazlý Çalýþma:** Öðrenciler, belirlenen bir projede doðrudan çalýþarak problem çözme ve proje yönetimi becerilerini geliþtirebilir.
+- **Mentorluk:** Sektör profesyonelleri tarafýndan mentorluk alarak kariyer hedefleri konusunda rehberlik alabilir ve profesyonel aðý geniþletebilir.
+- **Teknik Beceri Geliþtirme:** Güncel teknolojilere eriþim saðlayarak yeni programlama dilleri ve araçlarý üzerinde çalýþma imkaný bulurlar.
+
+Bu tür bir eðitimin baþvuru süreci genellikle þu adýmlarý içerir:
+1. **Firma Seçimi:** Öncelikle ilgi alanýnýza uygun firmalar listelenmelidir.
+2. **Baþvuru Hazýrlýðý:** CV'niz ve niyet mektubunuz ile firmalara baþvuruda bulunursunuz.
+3. **Üniversite Onayýnýn Alýnmasý:** Seçilen firma ya da kuruluþla anlaþma yapýlmasýndan sonra üniversitenizin de bu durumu onaylamasý gerekmektedir.
+4. **Etkileþime Geçmek:** Firma ile etkili bir þekilde iletiþime geçerek görev tanýmýnýzýn detaylarýný netleþtirmeniz önemlidir.
+
+Özellikle büyük teknoloji þirketleriyle yapýlan iþbirlikleri sayesinde öðrencilere yüksek kalitede meslekî eðitim sunulmakta; böylece mezuniyet sonrasýnda iþ bulma oranlarý arttýrýlmaktadýr.
+
+Daha fazla bilgi için Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümü web sayfasýný ziyaret edebilirisiniz: [MCBU Bilgisayar Mühendisliði](https://www.cbu.edu.tr).
+
+31/05 10:45:44 User: yanlýþ bilgi verdin tekrar verir misin 
+31/05 10:45:44 MCBU ChatBot: Özür dilerim, bilgisayar mühendisliði bölümünde iþletmede mesleki eðitim hakkýnda doðru bilgiyi saðlamak için tekrar açýklama yapacaðým.
+
+Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümü öðrencilere, sektörde gerçek zamanlý deneyimler sunan çeþitli iþletmelerde profesyonel uygulamalar yapma fýrsatý verir. Bu tür programlar genellikle "Sanayi ile Ýþbirliði" veya "Endüstriyel Eðitim Programlarý" olarak adlandýrýlýr ve özellikle teknoloji odaklý þirketlerde uygulanýr.
+
+Bu programlarýn temel amacý:
+- Öðrencilere yazýlým geliþtirme, sistem yönetimi ve að güvenliði gibi alanlarda pratik tecrübe kazandýrmaktýr.
+- Öðrencilerin mezuniyet öncesi sektörel becerilerini arttýrarak onlarý iþ dünyasýna hazýrlamaktadýr.
+  
+Programýn süreci genellikle þu þekilde iþler:
+1. **Firma Seçimi:** Öncelikle ilgili teknoloji firmalarýndan staj veya endüstriyel eðitim yerleri araþtýrýlýr.
+2. **Baþvuru Süreci:** Özgeçmiþiniz ve niyet mektubunuzla birlikte baþvurularýnýz firmalara iletilebilir.
+3. **Üniversite Onayýnýn Alýnmasý:** Baþvurduðunuz firma tarafýndan kabul edildiyseniz, bu durum üniversitenizin de onayýndan geçmelidir.
+4. **Etkileþime Geçmek:** Firma ile etkili bir þekilde iletiþime geçerek görev tanýmýnýzýn detaylarýný netleþtirmeniz önemlidir.
+
+Bu türden bir meslekî eðitime katýlmanýz sizi mezuniyet sonrasýnda daha rekabetçi kýlabilir ve potansiyel iþverenlere karþý avantaj saðlayabilir.
+
+Daha fazla bilgi almak isterseniz Manisa Celal Bayar Üniversitesi Bilgisayar Mühendisliði Bölümünün web sayfasýný ziyaret edebilirsiniz: [MCBU Bilgisayar Mühendisliði](https://www.cbu.edu.tr).
+
+31/05 10:46:53 User: üniversite hakkýnda bilgi verir msini 
+31/05 10:46:53 MCBU ChatBot: Elbette, Manisa Celal Bayar Üniversitesi (MCBU) hakkýnda detaylý bilgi verebilirim. MCBU, Türkiye'nin Ege Bölgesi'nde yer alan Manisa þehrinde bulunmaktadýr ve 1992 yýlýnda kurulmuþtur. Üniversite, öðrencilere nitelikli eðitim fýrsatlarý sunmakta ve araþtýrma-geliþtirme faaliyetleriyle bilim dünyasýna katkýda bulunmayý amaçlamaktadýr.
+
+Üniversitemizde dört ana kampüs bulunmaktadýr: Þehit Prof. Dr. Ýlhan Varank Kampüsü, Muradiye Kampüsü, Akhisar Uygulamalý Bilimler Yüksekokulu Kampüsü ve Demirci Kampüsü. Bu kampüslerde çok sayýda fakülte, enstitü, yüksekokul ve meslek yüksekokulu yer almaktadýr.
+
+**Fakülteler:**
+- Fen-Edebiyat Fakültesi
+- Týp Fakültesi
+- Mühendislik Fakültesi
+- Ýktisadi ve Ýdari Bilimler Fakültesi
+ve daha fazlasýný içerir.
+
+Ayrýca üniversitemiz çeþitli sosyal aktiviteler, kulüpler ve spor olanaklarý ile öðrencilerin kiþisel geliþimine de büyük önem vermektedir. Öðrencilerimize modern laboratuvarlar, kütüphaneler ve eðitim teknolojilerini kullanarak kaliteli bir eðitim deneyimi sunuyoruz.
+
+Manisa Celal Bayar Üniversitesinin akademik kadrosu alanlarýnda uzmanlaþmýþ profesörlerden oluþmakta olup sürekli olarak ulusal ve uluslararasý projelerle kendini güncel tutmaktadýr.
+
+Daha fazla bilgi için lutfen üniversitemizin resmi web sitesini ziyaret ediniz: [Manisa Celal Bayar Üniversitesi Web Sites](https://www.cbu.edu.tr).

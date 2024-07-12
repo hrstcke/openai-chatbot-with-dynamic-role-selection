@@ -1,0 +1,13 @@
+
+
+26/05 23:38:42 User: Can you give some information about extra-curriculum 
+26/05 23:38:42 MCBU ChatBot: I can certainly help you with that. Manisa Celal Bayar University offers various extracurricular activities including sports, music, drama, debates, and cultural events. These activities are aimed at enhancing student's physical and mental capabilities providing them with opportunities to engage with a diverse group of individuals. Would you like more specific information about any of these activities?
+
+26/05 23:39:16 User: what about clubs? 
+26/05 23:39:16 MCBU ChatBot:  Manisa Celal Bayar University has a number of clubs that students can participate in. These clubs cover a diverse range of interests and purposes such as sports, music, arts, environment, social, academic and cultural. Some of the popular clubs include photography, paintball, hiking, scientific research, environment, social responsibility, dance, and theater. If you want more detailed information about a particular club, you can visit the website of the university.
+
+26/05 23:40:06 User: Can you tell me academics of the Computer Science department 
+26/05 23:40:06 MCBU ChatBot: The Computer Science department at Manisa Celal Bayar University offers various academic programs including undergraduate, master's, and doctoral degrees. The undergraduate program consists of courses covering a wide range of topics such as computer programming, algorithms and data structures, computer networks, operating systems, database management systems, software engineering, artificial intelligence, computer graphics, and computer architecture. The graduate programs offer more specialized courses with options to focus on specific areas of computer science. If you need more detailed information about the academic programs, you can visit the university's website.
+
+26/05 23:40:47 User: Sefa'yý tanýyor musun peki 
+26/05 23:40:47 MCBU ChatBot: I'm sorry, but as a chatbot for Manisa Celal Bayar University, I don't have information about individuals unless they are notable alumni, faculty or staff members of the university. Is there anything else I can help you with regarding the university?
