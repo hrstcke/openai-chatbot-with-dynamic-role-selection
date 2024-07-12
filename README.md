@@ -26,23 +26,19 @@ This project is a web-based ChatBot application built using Flask and OpenAI's G
 
 ### Installation
 
-### 1.Installation
+### Installation
 
-Install the required dependencies:
+##  1. Install the required dependencies:
 
-bash
-Kodu kopyala
-pip install -r requirements.txt
-Set up your OpenAI API key in app.py:
+  pip install -r requirements.txt
 
-python
-Kodu kopyala
-openai.api_key = "your-openai-api-key"
-Run the application:
+### 2.Set up your OpenAI API key in app.py:
 
-bash
-Kodu kopyala
-flask run
+  openai.api_key = "your-openai-api-key"
+  
+### 3.Run the application:
+
+  python app.py
 
 ### Usage
 Open your web browser and navigate to http://127.0.0.1:5000/.
